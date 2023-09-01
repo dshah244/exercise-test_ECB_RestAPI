@@ -1,0 +1,10 @@
+# python environments
+.env/**
+env/**
+venv/**
+
+# pytest directories
+pytest*/**
+
+# sphinx documentation
+html/*
